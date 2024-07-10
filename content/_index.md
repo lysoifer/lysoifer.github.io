@@ -34,8 +34,7 @@ sections:
     content:
       title: Projects
       subtitle: ''
-      text: |-
-      ''
+      text: ''
     design:
       columns: '1'
   - block: collection
