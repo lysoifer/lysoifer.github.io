@@ -163,4 +163,4 @@ awards:
 
 ## About Me
 
-I am a PhD student in Brett Scheffers lab at the University of Florida. My interests lie broadly in understanding how climate impacts species distributions across spatial scales. Specifically, my current work focuses largely on understanding how vertical climate gradients influence 3D distributions of arboreal species from local to global scales.  
+I am a PhD student in the Scheffers lab at the University of Florida. My interests lie broadly in understanding how climate impacts species distributions across spatial scales. Specifically, my current work focuses largely on understanding how vertical climate gradients influence 3D distributions of arboreal species from local to global scales.  
