@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: project
+    id: research
     content:
       title: Research
       subtitle: ''
@@ -40,7 +40,7 @@ sections:
       count: 5
       filters:
         folders:
-          - research
+          - project
     design:
       columns: '2'
       view: card
