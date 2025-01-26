@@ -39,6 +39,7 @@ sections:
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
     design:
+      columns: '2'
       view: card
   - block: collection
     id: papers
