@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: research
+    id: project
     content:
       title: Research
       subtitle: ''
