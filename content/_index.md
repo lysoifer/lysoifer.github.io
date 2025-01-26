@@ -30,13 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
+    id: research
     content:
-      title: Projects
+      title: Research
       subtitle: ''
       text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
     design:
-      columns: '1'
+      view: card
   - block: collection
     id: papers
     content:
