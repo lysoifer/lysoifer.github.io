@@ -37,12 +37,11 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       filters:
         folders:
           - project
     design:
-      columns: '2'
       view: card
   - block: collection
     id: papers
