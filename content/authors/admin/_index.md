@@ -46,14 +46,18 @@ profiles:
   
 
 interests:
-  - Species distribution modeling
-  - 3D ecology
-  - Epiphytes
-  - Spatial statistics
+  - Microclimate ecology
   - Biogeography
-  - Landscape ecology
+  - Macroecology
+  - Trait-based ecology
+  - Plants
+  - 3D ecology
+  - Spatial statistics
 
 education:
+  - area: PhD Interdisciplinary Ecology (current)
+    institution: University of Florida
+    date_start: 2022
   - area: MPhil Plant Sciences
     institution: University of Cambridge
 #    date_start: 
