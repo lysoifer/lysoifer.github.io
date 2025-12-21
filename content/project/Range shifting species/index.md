@@ -2,7 +2,7 @@
 title: Range shifting species
 type: landing
 date: 2025-12-21
----
+
 sections:
 - block: markdown
   content:
@@ -25,5 +25,5 @@ sections:
 design:
   background:
     color: ""
-    
+---
 
