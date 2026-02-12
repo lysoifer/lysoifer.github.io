@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lydia Soifer</title>
+    <link>http://localhost:1313/publications/</link>
+      <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_c532089d4784a65a.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+    </image>
+    
+    <item>
+      <title>Microclimates slow and alter the direction of climate velocities in tropical forests</title>
+      <link>http://localhost:1313/publications/2025-soifer-microclimates-slow-and/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-soifer-microclimates-slow-and/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

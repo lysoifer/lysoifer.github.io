@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Lydia Soifer</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_c532089d4784a65a.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Range shifting species</title>
+      <link>http://localhost:1313/project/range-shifting-species/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/range-shifting-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microclimate ecology</title>
+      <link>http://localhost:1313/project/microclimate-ecology/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/microclimate-ecology/</guid>
+      <description>&lt;p&gt;Microclimates are the climates experienced by organisms on Earth, whether they be a seedling in a forest understory or a bird flying through the tree tops. I use mechanistic microclimate models to estimate these proximal climate conditions and understand how they shape species&amp;rsquo; distributions under current and future climate change.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Ecology</title>
+      <link>http://localhost:1313/project/3d-ecology/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/3d-ecology/</guid>
+      <description>&lt;p&gt;Examining 3-dimensional distributions of species and their traits.&lt;/p&gt;
+&lt;h2 id=&#34;3d-climate-velocity&#34;&gt;3D climate velocity&lt;/h2&gt;
+&lt;p&gt;Climate velocity describes the speed and direction that species are expected to shift locally in response to climate change. However, studies have not previously incorporated impacts of vegetation on microclimates across the land surface and vertically from the ground to the canopy. We examine how accounting for vegetation impacts local climate velocities in two and three dimensions. This work expands methods used to calculate local climate velocities to incorporate a third dimension from the ground to the canopy, allowing us to examine how arboreal species may respond to climate change using vertical climate gradients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

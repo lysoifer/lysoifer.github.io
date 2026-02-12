@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Lydia Soifer</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_c532089d4784a65a.png</url>
+      <title>Blog</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>Field work 2024</title>
+      <link>http://localhost:1313/post/field-work-2024/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/field-work-2024/</guid>
+      <description>&lt;p&gt;I have returned from the field after spending 2 months climbing trees at Cerro Chucanti, Panama to examine impacts of 3D microclimates on bromeliad traits.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
