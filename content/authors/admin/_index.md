@@ -66,13 +66,11 @@ education:
     institution: University of Cambridge
     date_start: 2021
     date_end: 2022
-    summary: |
      
   - area: BS Biology
     institution: Davidson College
     date_start: 2016
     date_end: 2020
-    summary: |
  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
