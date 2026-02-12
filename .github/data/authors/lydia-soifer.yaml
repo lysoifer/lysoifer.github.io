@@ -1,0 +1,44 @@
+# Display name
+title: Lydia Soifer
+
+# Role/position
+role: PhD candidate
+
+# Short bio (supports Markdown)
+bio: |
+  Ecologist studying the intersection between microclimate ecology and biogeography.
+
+# Organization(s)
+organizations:
+  - name: School of Natural Resources and Environment, University of Florida
+    url: https://snre.ifas.ufl.edu/
+
+# Social/contact links
+social:
+  - icon: envelope
+    link: mailto:lysoifer@gmail.com
+  - icon: brands/github
+    link: https://github.com/lysoifer
+  - icon: brands/bluesky
+    link: https://bsky.app/profile/lysoifer.bsky.social
+  - icon: academicons/google-scholar
+    link: https://scholar.google.com/citations?user=4-X2-wgAAAAJ&hl=en
+  - icon: brands/linkedin
+    link: https://www.linkedin.com/in/lydia-soifer-245446207/
+
+# Education (optional)
+education:
+  - course: MPhil in Biological Sciences (Plant Sciences)
+    institution: University of Cambridge
+    year: 2022
+  - course: BS in Biology
+    institution: Davidson College
+    year: 2020
+
+# Interests (optional)
+interests:
+  - Microclimate Ecology
+  - Computational Ecology
+  - Modeling
+  - Spatial Analysis
+  - Tropical Forests

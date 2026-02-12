@@ -1,6 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
+authors:
+  - lydia-soifer
 date: 2022-10-24
 type: landing
 
@@ -12,8 +14,8 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
+      username: Lydia Soifer
+      text: "University of Flordia, PhD candidate"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
