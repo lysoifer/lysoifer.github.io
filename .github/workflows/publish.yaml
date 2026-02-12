@@ -47,7 +47,7 @@ jobs:
       with:
         node-version: '18'
     - name: Install TailwindCSS
-      run: npm install -g tailwindcss
+      run: npx install -g tailwindcss
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
